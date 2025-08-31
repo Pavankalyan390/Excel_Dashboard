@@ -3,7 +3,7 @@
 This project showcases an end-to-end data analysis workflow using Microsoft Excel. I worked with a messy bike sales dataset, cleaned and transformed it, and built an interactive dashboard to provide insights into customer behavior and sales trends.
 
 ## 📌 Project Overview
-The goal of this project was to analyze customer demographics and their bike purchasing behavior to support data-driven decision-making for the sales team. I designed a dynamic dashboard that enables users to filter and explore data by marital status, region, education, and other dimensions.
+The goal of this project was to analyze customers demographics and their bike purchasing behavior to support data-driven decision-making for the sales team. I designed a dynamic dashboard that enables users to filter and explore data by marital status, region, education, and other dimensions.
 
 
 
